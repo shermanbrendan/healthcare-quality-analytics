@@ -1,0 +1,769 @@
+department,measure,quarter,performance_rate,national_benchmark,gap_to_benchmark,denominator,numerator
+Cardiology,BP_Control,2023-Q1,0.8304,0.7286,0.1018,500,415
+Cardiology,BP_Control,2023-Q2,0.8398,0.7943,0.0455,245,206
+Cardiology,BP_Control,2023-Q3,0.8965,0.7318,0.1647,595,533
+Cardiology,BP_Control,2023-Q4,0.8362,0.8191,0.0171,418,350
+Cardiology,BP_Control,2024-Q1,0.8418,0.8348,0.007,392,330
+Cardiology,BP_Control,2024-Q2,0.8441,0.7277,0.1164,291,246
+Cardiology,BP_Control,2024-Q3,0.8369,0.8337,0.0032,344,288
+Cardiology,BP_Control,2024-Q4,0.8716,0.8791,-0.0075,577,503
+Cardiology,BP_Control,2025-Q1,0.8958,0.8036,0.0922,232,208
+Cardiology,BP_Control,2025-Q2,0.8608,0.8613,-0.0005,463,399
+Cardiology,BP_Control,2025-Q3,0.9103,0.7207,0.1896,571,520
+Cardiology,BP_Control,2025-Q4,0.9117,0.8241,0.0876,500,456
+Cardiology,HbA1c_Testing,2023-Q1,0.7041,0.7579,-0.0538,362,255
+Cardiology,HbA1c_Testing,2023-Q2,0.7034,0.7802,-0.0768,455,320
+Cardiology,HbA1c_Testing,2023-Q3,0.767,0.7916,-0.0246,552,423
+Cardiology,HbA1c_Testing,2023-Q4,0.7279,0.8505,-0.1226,329,239
+Cardiology,HbA1c_Testing,2024-Q1,0.7406,0.8719,-0.1313,575,426
+Cardiology,HbA1c_Testing,2024-Q2,0.7872,0.8638,-0.0766,141,111
+Cardiology,HbA1c_Testing,2024-Q3,0.7563,0.8511,-0.0948,410,310
+Cardiology,HbA1c_Testing,2024-Q4,0.7739,0.7338,0.0401,226,175
+Cardiology,HbA1c_Testing,2025-Q1,0.7936,0.7638,0.0298,136,108
+Cardiology,HbA1c_Testing,2025-Q2,0.8163,0.8433,-0.027,587,479
+Cardiology,HbA1c_Testing,2025-Q3,0.8139,0.7827,0.0312,411,335
+Cardiology,HbA1c_Testing,2025-Q4,0.8022,0.7351,0.0671,490,393
+Cardiology,Colorectal_Screening,2023-Q1,0.582,0.7856,-0.2036,309,180
+Cardiology,Colorectal_Screening,2023-Q2,0.6123,0.8261,-0.2138,343,210
+Cardiology,Colorectal_Screening,2023-Q3,0.5978,0.711,-0.1132,241,144
+Cardiology,Colorectal_Screening,2023-Q4,0.6176,0.763,-0.1454,140,86
+Cardiology,Colorectal_Screening,2024-Q1,0.6261,0.7084,-0.0823,203,127
+Cardiology,Colorectal_Screening,2024-Q2,0.6248,0.7362,-0.1114,181,113
+Cardiology,Colorectal_Screening,2024-Q3,0.632,0.7736,-0.1416,486,307
+Cardiology,Colorectal_Screening,2024-Q4,0.6281,0.8524,-0.2243,556,349
+Cardiology,Colorectal_Screening,2025-Q1,0.642,0.7634,-0.1214,571,367
+Cardiology,Colorectal_Screening,2025-Q2,0.6312,0.8398,-0.2086,80,50
+Cardiology,Colorectal_Screening,2025-Q3,0.6954,0.7788,-0.0834,239,166
+Cardiology,Colorectal_Screening,2025-Q4,0.6815,0.8586,-0.1771,559,381
+Cardiology,Mammography,2023-Q1,0.5995,0.8334,-0.2339,413,248
+Cardiology,Mammography,2023-Q2,0.6274,0.7017,-0.0743,382,240
+Cardiology,Mammography,2023-Q3,0.6016,0.7321,-0.1305,549,330
+Cardiology,Mammography,2023-Q4,0.6007,0.7283,-0.1276,104,62
+Cardiology,Mammography,2024-Q1,0.6367,0.8238,-0.1871,295,188
+Cardiology,Mammography,2024-Q2,0.599,0.7921,-0.1931,183,110
+Cardiology,Mammography,2024-Q3,0.6283,0.7877,-0.1594,496,312
+Cardiology,Mammography,2024-Q4,0.646,0.7831,-0.1371,218,141
+Cardiology,Mammography,2025-Q1,0.6406,0.8679,-0.2273,251,161
+Cardiology,Mammography,2025-Q2,0.6042,0.8527,-0.2485,528,319
+Cardiology,Mammography,2025-Q3,0.6508,0.7062,-0.0554,436,284
+Cardiology,Mammography,2025-Q4,0.6527,0.7562,-0.1035,153,100
+Cardiology,Flu_Vaccine,2023-Q1,0.7495,0.7418,0.0077,148,111
+Cardiology,Flu_Vaccine,2023-Q2,0.7513,0.7573,-0.006,396,298
+Cardiology,Flu_Vaccine,2023-Q3,0.7505,0.8792,-0.1287,359,269
+Cardiology,Flu_Vaccine,2023-Q4,0.741,0.8594,-0.1184,209,155
+Cardiology,Flu_Vaccine,2024-Q1,0.7941,0.7604,0.0337,135,107
+Cardiology,Flu_Vaccine,2024-Q2,0.7992,0.8487,-0.0495,473,378
+Cardiology,Flu_Vaccine,2024-Q3,0.7945,0.8452,-0.0507,241,191
+Cardiology,Flu_Vaccine,2024-Q4,0.7874,0.8766,-0.0892,125,98
+Cardiology,Flu_Vaccine,2025-Q1,0.8255,0.8228,0.0027,526,434
+Cardiology,Flu_Vaccine,2025-Q2,0.8328,0.8117,0.0211,480,400
+Cardiology,Flu_Vaccine,2025-Q3,0.8476,0.8249,0.0227,190,161
+Cardiology,Flu_Vaccine,2025-Q4,0.8845,0.7576,0.1269,439,388
+Cardiology,Statin_Therapy,2023-Q1,0.6451,0.7707,-0.1256,146,94
+Cardiology,Statin_Therapy,2023-Q2,0.6001,0.7428,-0.1427,110,66
+Cardiology,Statin_Therapy,2023-Q3,0.5807,0.8263,-0.2456,562,326
+Cardiology,Statin_Therapy,2023-Q4,0.6404,0.7408,-0.1004,218,140
+Cardiology,Statin_Therapy,2024-Q1,0.6305,0.7279,-0.0974,136,86
+Cardiology,Statin_Therapy,2024-Q2,0.6145,0.8468,-0.2323,522,321
+Cardiology,Statin_Therapy,2024-Q3,0.6722,0.7691,-0.0969,525,353
+Cardiology,Statin_Therapy,2024-Q4,0.6816,0.7731,-0.0915,410,279
+Cardiology,Statin_Therapy,2025-Q1,0.6993,0.7516,-0.0523,84,59
+Cardiology,Statin_Therapy,2025-Q2,0.6793,0.7584,-0.0791,263,179
+Cardiology,Statin_Therapy,2025-Q3,0.7204,0.75,-0.0296,196,141
+Cardiology,Statin_Therapy,2025-Q4,0.6636,0.8245,-0.1609,501,332
+Cardiology,Readmission_Rate,2023-Q1,0.9198,0.7603,0.1595,250,230
+Cardiology,Readmission_Rate,2023-Q2,0.9017,0.8701,0.0316,592,534
+Cardiology,Readmission_Rate,2023-Q3,0.9192,0.8342,0.085,155,142
+Cardiology,Readmission_Rate,2023-Q4,0.92,0.7839,0.1361,92,85
+Cardiology,Readmission_Rate,2024-Q1,0.92,0.7658,0.1542,149,137
+Cardiology,Readmission_Rate,2024-Q2,0.9661,0.7432,0.2229,112,108
+Cardiology,Readmission_Rate,2024-Q3,0.9242,0.8716,0.0526,543,502
+Cardiology,Readmission_Rate,2024-Q4,0.8684,0.7404,0.128,198,172
+Cardiology,Readmission_Rate,2025-Q1,0.9552,0.7402,0.215,534,510
+Cardiology,Readmission_Rate,2025-Q2,0.8734,0.8543,0.0191,474,414
+Cardiology,Readmission_Rate,2025-Q3,0.9275,0.7534,0.1741,420,390
+Cardiology,Readmission_Rate,2025-Q4,0.9318,0.8498,0.082,216,201
+Cardiology,CAHPS_Composite,2023-Q1,0.6779,0.7054,-0.0275,91,62
+Cardiology,CAHPS_Composite,2023-Q2,0.7441,0.8787,-0.1346,436,324
+Cardiology,CAHPS_Composite,2023-Q3,0.7154,0.8198,-0.1044,589,421
+Cardiology,CAHPS_Composite,2023-Q4,0.7023,0.7015,0.0008,240,169
+Cardiology,CAHPS_Composite,2024-Q1,0.7181,0.8121,-0.094,462,332
+Cardiology,CAHPS_Composite,2024-Q2,0.724,0.7065,0.0175,488,353
+Cardiology,CAHPS_Composite,2024-Q3,0.7203,0.7957,-0.0754,353,254
+Cardiology,CAHPS_Composite,2024-Q4,0.7254,0.7521,-0.0267,209,152
+Cardiology,CAHPS_Composite,2025-Q1,0.7387,0.839,-0.1003,431,318
+Cardiology,CAHPS_Composite,2025-Q2,0.7697,0.8671,-0.0974,524,403
+Cardiology,CAHPS_Composite,2025-Q3,0.7327,0.818,-0.0853,405,297
+Cardiology,CAHPS_Composite,2025-Q4,0.7524,0.801,-0.0486,234,176
+Oncology,BP_Control,2023-Q1,0.8428,0.7776,0.0652,115,97
+Oncology,BP_Control,2023-Q2,0.8556,0.7689,0.0867,271,232
+Oncology,BP_Control,2023-Q3,0.8427,0.7603,0.0824,434,366
+Oncology,BP_Control,2023-Q4,0.8421,0.7113,0.1308,169,142
+Oncology,BP_Control,2024-Q1,0.8472,0.7869,0.0603,537,455
+Oncology,BP_Control,2024-Q2,0.8642,0.8251,0.0391,451,390
+Oncology,BP_Control,2024-Q3,0.8983,0.7136,0.1847,285,256
+Oncology,BP_Control,2024-Q4,0.8844,0.7854,0.099,336,297
+Oncology,BP_Control,2025-Q1,0.8528,0.8058,0.047,303,258
+Oncology,BP_Control,2025-Q2,0.8914,0.712,0.1794,256,228
+Oncology,BP_Control,2025-Q3,0.8757,0.7818,0.0939,282,247
+Oncology,BP_Control,2025-Q4,0.8736,0.7481,0.1255,337,294
+Oncology,HbA1c_Testing,2023-Q1,0.8148,0.8163,-0.0015,147,120
+Oncology,HbA1c_Testing,2023-Q2,0.8184,0.8124,0.006,584,478
+Oncology,HbA1c_Testing,2023-Q3,0.9136,0.7762,0.1374,243,222
+Oncology,HbA1c_Testing,2023-Q4,0.8449,0.7202,0.1247,355,300
+Oncology,HbA1c_Testing,2024-Q1,0.8934,0.775,0.1184,171,153
+Oncology,HbA1c_Testing,2024-Q2,0.8566,0.7714,0.0852,465,398
+Oncology,HbA1c_Testing,2024-Q3,0.8597,0.7139,0.1458,232,199
+Oncology,HbA1c_Testing,2024-Q4,0.8469,0.8689,-0.022,521,441
+Oncology,HbA1c_Testing,2025-Q1,0.8608,0.8386,0.0222,334,288
+Oncology,HbA1c_Testing,2025-Q2,0.8686,0.7272,0.1414,224,195
+Oncology,HbA1c_Testing,2025-Q3,0.8468,0.723,0.1238,347,294
+Oncology,HbA1c_Testing,2025-Q4,0.8794,0.8625,0.0169,540,475
+Oncology,Colorectal_Screening,2023-Q1,0.5806,0.7171,-0.1365,82,48
+Oncology,Colorectal_Screening,2023-Q2,0.5957,0.7193,-0.1236,190,113
+Oncology,Colorectal_Screening,2023-Q3,0.5659,0.7302,-0.1643,533,302
+Oncology,Colorectal_Screening,2023-Q4,0.5838,0.713,-0.1292,359,210
+Oncology,Colorectal_Screening,2024-Q1,0.6189,0.7078,-0.0889,337,209
+Oncology,Colorectal_Screening,2024-Q2,0.6015,0.7443,-0.1428,389,234
+Oncology,Colorectal_Screening,2024-Q3,0.6609,0.7997,-0.1388,202,134
+Oncology,Colorectal_Screening,2024-Q4,0.6274,0.8457,-0.2183,491,308
+Oncology,Colorectal_Screening,2025-Q1,0.6571,0.7928,-0.1357,579,380
+Oncology,Colorectal_Screening,2025-Q2,0.6338,0.8357,-0.2019,335,212
+Oncology,Colorectal_Screening,2025-Q3,0.6972,0.7015,-0.0043,94,66
+Oncology,Colorectal_Screening,2025-Q4,0.6543,0.7938,-0.1395,98,64
+Oncology,Mammography,2023-Q1,0.6905,0.8067,-0.1162,92,64
+Oncology,Mammography,2023-Q2,0.7125,0.7593,-0.0468,600,428
+Oncology,Mammography,2023-Q3,0.6772,0.7075,-0.0303,203,137
+Oncology,Mammography,2023-Q4,0.7208,0.7482,-0.0274,277,200
+Oncology,Mammography,2024-Q1,0.7136,0.739,-0.0254,105,75
+Oncology,Mammography,2024-Q2,0.7065,0.7612,-0.0547,114,81
+Oncology,Mammography,2024-Q3,0.7246,0.7995,-0.0749,195,141
+Oncology,Mammography,2024-Q4,0.7448,0.8251,-0.0803,129,96
+Oncology,Mammography,2025-Q1,0.746,0.761,-0.015,306,228
+Oncology,Mammography,2025-Q2,0.734,0.7614,-0.0274,522,383
+Oncology,Mammography,2025-Q3,0.7719,0.8459,-0.074,118,91
+Oncology,Mammography,2025-Q4,0.7792,0.8143,-0.0351,188,146
+Oncology,Flu_Vaccine,2023-Q1,0.8295,0.7175,0.112,504,418
+Oncology,Flu_Vaccine,2023-Q2,0.8555,0.8023,0.0532,508,435
+Oncology,Flu_Vaccine,2023-Q3,0.8795,0.704,0.1755,220,193
+Oncology,Flu_Vaccine,2023-Q4,0.8412,0.8729,-0.0317,156,131
+Oncology,Flu_Vaccine,2024-Q1,0.8732,0.7289,0.1443,377,329
+Oncology,Flu_Vaccine,2024-Q2,0.9261,0.863,0.0631,538,498
+Oncology,Flu_Vaccine,2024-Q3,0.9222,0.8493,0.0729,344,317
+Oncology,Flu_Vaccine,2024-Q4,0.9469,0.726,0.2209,197,187
+Oncology,Flu_Vaccine,2025-Q1,0.9576,0.7268,0.2308,435,417
+Oncology,Flu_Vaccine,2025-Q2,0.9662,0.8019,0.1643,274,265
+Oncology,Flu_Vaccine,2025-Q3,1.0,0.7714,0.2286,242,242
+Oncology,Flu_Vaccine,2025-Q4,0.96,0.7093,0.2507,353,339
+Oncology,Statin_Therapy,2023-Q1,0.7808,0.841,-0.0602,349,272
+Oncology,Statin_Therapy,2023-Q2,0.7919,0.8053,-0.0134,408,323
+Oncology,Statin_Therapy,2023-Q3,0.8088,0.8078,0.001,256,207
+Oncology,Statin_Therapy,2023-Q4,0.8297,0.77,0.0597,232,192
+Oncology,Statin_Therapy,2024-Q1,0.8313,0.7001,0.1312,309,257
+Oncology,Statin_Therapy,2024-Q2,0.8249,0.7142,0.1107,345,285
+Oncology,Statin_Therapy,2024-Q3,0.8512,0.8341,0.0171,458,390
+Oncology,Statin_Therapy,2024-Q4,0.8592,0.7751,0.0841,442,380
+Oncology,Statin_Therapy,2025-Q1,0.8823,0.7892,0.0931,202,178
+Oncology,Statin_Therapy,2025-Q2,0.9053,0.8366,0.0687,480,435
+Oncology,Statin_Therapy,2025-Q3,0.9253,0.7638,0.1615,178,165
+Oncology,Statin_Therapy,2025-Q4,0.8792,0.738,0.1412,372,327
+Oncology,Readmission_Rate,2023-Q1,0.905,0.8529,0.0521,390,353
+Oncology,Readmission_Rate,2023-Q2,0.9218,0.7423,0.1795,593,547
+Oncology,Readmission_Rate,2023-Q3,0.9107,0.8026,0.1081,485,442
+Oncology,Readmission_Rate,2023-Q4,0.935,0.7523,0.1827,182,170
+Oncology,Readmission_Rate,2024-Q1,0.8997,0.7716,0.1281,440,396
+Oncology,Readmission_Rate,2024-Q2,0.9455,0.7071,0.2384,474,448
+Oncology,Readmission_Rate,2024-Q3,0.9548,0.726,0.2288,410,391
+Oncology,Readmission_Rate,2024-Q4,0.9579,0.7342,0.2237,213,204
+Oncology,Readmission_Rate,2025-Q1,0.9642,0.8384,0.1258,311,300
+Oncology,Readmission_Rate,2025-Q2,0.9787,0.7041,0.2746,231,226
+Oncology,Readmission_Rate,2025-Q3,0.9871,0.8788,0.1083,580,573
+Oncology,Readmission_Rate,2025-Q4,1.0,0.7694,0.2306,176,176
+Oncology,CAHPS_Composite,2023-Q1,0.8946,0.8607,0.0339,452,404
+Oncology,CAHPS_Composite,2023-Q2,0.8726,0.8467,0.0259,451,394
+Oncology,CAHPS_Composite,2023-Q3,0.8846,0.7882,0.0964,408,361
+Oncology,CAHPS_Composite,2023-Q4,0.8898,0.7979,0.0919,201,179
+Oncology,CAHPS_Composite,2024-Q1,0.8823,0.7907,0.0916,93,82
+Oncology,CAHPS_Composite,2024-Q2,0.8849,0.8238,0.0611,596,527
+Oncology,CAHPS_Composite,2024-Q3,0.9068,0.736,0.1708,331,300
+Oncology,CAHPS_Composite,2024-Q4,0.9021,0.7562,0.1459,117,106
+Oncology,CAHPS_Composite,2025-Q1,0.888,0.7933,0.0947,457,406
+Oncology,CAHPS_Composite,2025-Q2,0.8973,0.7488,0.1485,365,328
+Oncology,CAHPS_Composite,2025-Q3,0.9244,0.8513,0.0731,565,522
+Oncology,CAHPS_Composite,2025-Q4,0.9271,0.7927,0.1344,441,409
+Neurology,BP_Control,2023-Q1,0.7591,0.7225,0.0366,256,194
+Neurology,BP_Control,2023-Q2,0.8267,0.7027,0.124,472,390
+Neurology,BP_Control,2023-Q3,0.7897,0.7671,0.0226,280,221
+Neurology,BP_Control,2023-Q4,0.8115,0.732,0.0795,504,409
+Neurology,BP_Control,2024-Q1,0.8454,0.8458,-0.0004,549,464
+Neurology,BP_Control,2024-Q2,0.8091,0.7784,0.0307,247,200
+Neurology,BP_Control,2024-Q3,0.8356,0.725,0.1106,504,421
+Neurology,BP_Control,2024-Q4,0.8494,0.797,0.0524,164,139
+Neurology,BP_Control,2025-Q1,0.8751,0.8451,0.03,561,491
+Neurology,BP_Control,2025-Q2,0.9075,0.7613,0.1462,340,309
+Neurology,BP_Control,2025-Q3,0.9166,0.7221,0.1945,290,266
+Neurology,BP_Control,2025-Q4,0.8987,0.8103,0.0884,432,388
+Neurology,HbA1c_Testing,2023-Q1,0.8943,0.7847,0.1096,113,101
+Neurology,HbA1c_Testing,2023-Q2,0.89,0.729,0.161,217,193
+Neurology,HbA1c_Testing,2023-Q3,0.9572,0.8609,0.0963,98,94
+Neurology,HbA1c_Testing,2023-Q4,0.9556,0.7158,0.2398,545,521
+Neurology,HbA1c_Testing,2024-Q1,0.9294,0.7895,0.1399,107,99
+Neurology,HbA1c_Testing,2024-Q2,0.9427,0.7757,0.167,383,361
+Neurology,HbA1c_Testing,2024-Q3,0.9493,0.7653,0.184,98,93
+Neurology,HbA1c_Testing,2024-Q4,0.9327,0.724,0.2087,475,443
+Neurology,HbA1c_Testing,2025-Q1,0.9458,0.8189,0.1269,373,353
+Neurology,HbA1c_Testing,2025-Q2,0.9756,0.7481,0.2275,308,300
+Neurology,HbA1c_Testing,2025-Q3,0.9783,0.8399,0.1384,298,292
+Neurology,HbA1c_Testing,2025-Q4,0.9758,0.75,0.2258,368,359
+Neurology,Colorectal_Screening,2023-Q1,0.8296,0.7055,0.1241,302,251
+Neurology,Colorectal_Screening,2023-Q2,0.8346,0.7335,0.1011,324,270
+Neurology,Colorectal_Screening,2023-Q3,0.8302,0.8325,-0.0023,206,171
+Neurology,Colorectal_Screening,2023-Q4,0.8193,0.8489,-0.0296,521,427
+Neurology,Colorectal_Screening,2024-Q1,0.8393,0.8508,-0.0115,517,434
+Neurology,Colorectal_Screening,2024-Q2,0.8625,0.8739,-0.0114,131,113
+Neurology,Colorectal_Screening,2024-Q3,0.8684,0.8599,0.0085,512,445
+Neurology,Colorectal_Screening,2024-Q4,0.825,0.8152,0.0098,343,283
+Neurology,Colorectal_Screening,2025-Q1,0.8625,0.7847,0.0778,219,189
+Neurology,Colorectal_Screening,2025-Q2,0.8595,0.8352,0.0243,179,154
+Neurology,Colorectal_Screening,2025-Q3,0.9142,0.7143,0.1999,142,130
+Neurology,Colorectal_Screening,2025-Q4,0.8753,0.7531,0.1222,315,276
+Neurology,Mammography,2023-Q1,0.7544,0.7843,-0.0299,257,194
+Neurology,Mammography,2023-Q2,0.7425,0.771,-0.0285,166,123
+Neurology,Mammography,2023-Q3,0.7383,0.8156,-0.0773,537,396
+Neurology,Mammography,2023-Q4,0.7689,0.7844,-0.0155,567,436
+Neurology,Mammography,2024-Q1,0.7769,0.8415,-0.0646,434,337
+Neurology,Mammography,2024-Q2,0.7488,0.816,-0.0672,272,204
+Neurology,Mammography,2024-Q3,0.7289,0.856,-0.1271,369,269
+Neurology,Mammography,2024-Q4,0.7471,0.7256,0.0215,412,308
+Neurology,Mammography,2025-Q1,0.7373,0.7381,-0.0008,311,229
+Neurology,Mammography,2025-Q2,0.7418,0.8694,-0.1276,212,157
+Neurology,Mammography,2025-Q3,0.7256,0.7241,0.0015,211,153
+Neurology,Mammography,2025-Q4,0.7854,0.7648,0.0206,584,459
+Neurology,Flu_Vaccine,2023-Q1,0.7326,0.7821,-0.0495,338,248
+Neurology,Flu_Vaccine,2023-Q2,0.7435,0.7652,-0.0217,427,317
+Neurology,Flu_Vaccine,2023-Q3,0.7889,0.7086,0.0803,189,149
+Neurology,Flu_Vaccine,2023-Q4,0.7534,0.8185,-0.0651,432,325
+Neurology,Flu_Vaccine,2024-Q1,0.7778,0.7336,0.0442,182,142
+Neurology,Flu_Vaccine,2024-Q2,0.8108,0.8684,-0.0576,368,298
+Neurology,Flu_Vaccine,2024-Q3,0.8005,0.7947,0.0058,522,418
+Neurology,Flu_Vaccine,2024-Q4,0.8025,0.8792,-0.0767,312,250
+Neurology,Flu_Vaccine,2025-Q1,0.8387,0.828,0.0107,274,230
+Neurology,Flu_Vaccine,2025-Q2,0.8058,0.7956,0.0102,485,391
+Neurology,Flu_Vaccine,2025-Q3,0.8152,0.8281,-0.0129,580,473
+Neurology,Flu_Vaccine,2025-Q4,0.8478,0.7976,0.0502,597,506
+Neurology,Statin_Therapy,2023-Q1,0.8742,0.8411,0.0331,372,325
+Neurology,Statin_Therapy,2023-Q2,0.878,0.7832,0.0948,332,291
+Neurology,Statin_Therapy,2023-Q3,0.8657,0.7663,0.0994,595,515
+Neurology,Statin_Therapy,2023-Q4,0.905,0.8425,0.0625,398,360
+Neurology,Statin_Therapy,2024-Q1,0.8643,0.7805,0.0838,566,489
+Neurology,Statin_Therapy,2024-Q2,0.8781,0.7101,0.168,472,414
+Neurology,Statin_Therapy,2024-Q3,0.859,0.8037,0.0553,330,283
+Neurology,Statin_Therapy,2024-Q4,0.8741,0.8228,0.0513,261,228
+Neurology,Statin_Therapy,2025-Q1,0.8512,0.7947,0.0565,327,278
+Neurology,Statin_Therapy,2025-Q2,0.8394,0.7235,0.1159,135,113
+Neurology,Statin_Therapy,2025-Q3,0.8593,0.727,0.1323,404,347
+Neurology,Statin_Therapy,2025-Q4,0.8401,0.7559,0.0842,163,137
+Neurology,Readmission_Rate,2023-Q1,0.8835,0.8267,0.0568,565,499
+Neurology,Readmission_Rate,2023-Q2,0.8777,0.8066,0.0711,376,330
+Neurology,Readmission_Rate,2023-Q3,0.8672,0.7741,0.0931,535,464
+Neurology,Readmission_Rate,2023-Q4,0.8818,0.8161,0.0657,149,131
+Neurology,Readmission_Rate,2024-Q1,0.8869,0.7936,0.0933,524,465
+Neurology,Readmission_Rate,2024-Q2,0.8917,0.7387,0.153,504,449
+Neurology,Readmission_Rate,2024-Q3,0.882,0.8343,0.0477,160,141
+Neurology,Readmission_Rate,2024-Q4,0.8979,0.8572,0.0407,413,371
+Neurology,Readmission_Rate,2025-Q1,0.8954,0.8113,0.0841,377,338
+Neurology,Readmission_Rate,2025-Q2,0.9562,0.8404,0.1158,415,397
+Neurology,Readmission_Rate,2025-Q3,0.9442,0.8761,0.0681,218,206
+Neurology,Readmission_Rate,2025-Q4,0.9869,0.8268,0.1601,146,144
+Neurology,CAHPS_Composite,2023-Q1,0.6218,0.8347,-0.2129,257,160
+Neurology,CAHPS_Composite,2023-Q2,0.6583,0.7413,-0.083,420,276
+Neurology,CAHPS_Composite,2023-Q3,0.634,0.873,-0.239,132,84
+Neurology,CAHPS_Composite,2023-Q4,0.6377,0.7157,-0.078,367,234
+Neurology,CAHPS_Composite,2024-Q1,0.6558,0.7829,-0.1271,586,384
+Neurology,CAHPS_Composite,2024-Q2,0.6729,0.7877,-0.1148,512,345
+Neurology,CAHPS_Composite,2024-Q3,0.6202,0.7248,-0.1046,281,174
+Neurology,CAHPS_Composite,2024-Q4,0.6673,0.7909,-0.1236,468,312
+Neurology,CAHPS_Composite,2025-Q1,0.6656,0.859,-0.1934,441,294
+Neurology,CAHPS_Composite,2025-Q2,0.7095,0.7526,-0.0431,585,415
+Neurology,CAHPS_Composite,2025-Q3,0.6542,0.8222,-0.168,167,109
+Neurology,CAHPS_Composite,2025-Q4,0.6986,0.8274,-0.1288,237,166
+Orthopedics,BP_Control,2023-Q1,0.8382,0.7037,0.1345,206,173
+Orthopedics,BP_Control,2023-Q2,0.8354,0.7042,0.1312,110,92
+Orthopedics,BP_Control,2023-Q3,0.8637,0.7175,0.1462,341,295
+Orthopedics,BP_Control,2023-Q4,0.8618,0.732,0.1298,497,428
+Orthopedics,BP_Control,2024-Q1,0.8561,0.8202,0.0359,139,119
+Orthopedics,BP_Control,2024-Q2,0.9496,0.7711,0.1785,407,386
+Orthopedics,BP_Control,2024-Q3,0.9056,0.7154,0.1902,580,525
+Orthopedics,BP_Control,2024-Q4,0.9179,0.7582,0.1597,428,393
+Orthopedics,BP_Control,2025-Q1,0.9233,0.7194,0.2039,123,114
+Orthopedics,BP_Control,2025-Q2,0.9561,0.8017,0.1544,487,466
+Orthopedics,BP_Control,2025-Q3,0.929,0.7802,0.1488,94,87
+Orthopedics,BP_Control,2025-Q4,0.9614,0.8195,0.1419,88,85
+Orthopedics,HbA1c_Testing,2023-Q1,0.5826,0.8692,-0.2866,575,335
+Orthopedics,HbA1c_Testing,2023-Q2,0.6018,0.862,-0.2602,359,216
+Orthopedics,HbA1c_Testing,2023-Q3,0.6025,0.7282,-0.1257,258,155
+Orthopedics,HbA1c_Testing,2023-Q4,0.615,0.7871,-0.1721,380,234
+Orthopedics,HbA1c_Testing,2024-Q1,0.5662,0.8578,-0.2916,483,273
+Orthopedics,HbA1c_Testing,2024-Q2,0.5849,0.7762,-0.1913,211,123
+Orthopedics,HbA1c_Testing,2024-Q3,0.569,0.8114,-0.2424,283,161
+Orthopedics,HbA1c_Testing,2024-Q4,0.5998,0.8536,-0.2538,433,260
+Orthopedics,HbA1c_Testing,2025-Q1,0.5713,0.7207,-0.1494,207,118
+Orthopedics,HbA1c_Testing,2025-Q2,0.5963,0.8055,-0.2092,239,143
+Orthopedics,HbA1c_Testing,2025-Q3,0.5782,0.8337,-0.2555,145,84
+Orthopedics,HbA1c_Testing,2025-Q4,0.557,0.7324,-0.1754,302,168
+Orthopedics,Colorectal_Screening,2023-Q1,0.8534,0.8366,0.0168,320,273
+Orthopedics,Colorectal_Screening,2023-Q2,0.8954,0.759,0.1364,522,467
+Orthopedics,Colorectal_Screening,2023-Q3,0.8706,0.7834,0.0872,538,468
+Orthopedics,Colorectal_Screening,2023-Q4,0.8562,0.8224,0.0338,589,504
+Orthopedics,Colorectal_Screening,2024-Q1,0.9032,0.78,0.1232,336,303
+Orthopedics,Colorectal_Screening,2024-Q2,0.8259,0.8626,-0.0367,213,176
+Orthopedics,Colorectal_Screening,2024-Q3,0.8444,0.7698,0.0746,422,356
+Orthopedics,Colorectal_Screening,2024-Q4,0.892,0.7958,0.0962,573,511
+Orthopedics,Colorectal_Screening,2025-Q1,0.8623,0.7581,0.1042,291,251
+Orthopedics,Colorectal_Screening,2025-Q2,0.8614,0.8198,0.0416,89,77
+Orthopedics,Colorectal_Screening,2025-Q3,0.873,0.7539,0.1191,528,461
+Orthopedics,Colorectal_Screening,2025-Q4,0.8741,0.8079,0.0662,342,299
+Orthopedics,Mammography,2023-Q1,0.5503,0.7135,-0.1632,266,146
+Orthopedics,Mammography,2023-Q2,0.6055,0.8561,-0.2506,110,67
+Orthopedics,Mammography,2023-Q3,0.6174,0.872,-0.2546,502,310
+Orthopedics,Mammography,2023-Q4,0.6303,0.7154,-0.0851,116,73
+Orthopedics,Mammography,2024-Q1,0.6329,0.7866,-0.1537,350,222
+Orthopedics,Mammography,2024-Q2,0.6628,0.8794,-0.2166,482,319
+Orthopedics,Mammography,2024-Q3,0.6792,0.8597,-0.1805,502,341
+Orthopedics,Mammography,2024-Q4,0.686,0.8088,-0.1228,589,404
+Orthopedics,Mammography,2025-Q1,0.6887,0.8499,-0.1612,359,247
+Orthopedics,Mammography,2025-Q2,0.7124,0.7854,-0.073,172,123
+Orthopedics,Mammography,2025-Q3,0.6924,0.7827,-0.0903,254,176
+Orthopedics,Mammography,2025-Q4,0.7605,0.7522,0.0083,315,240
+Orthopedics,Flu_Vaccine,2023-Q1,0.7457,0.8182,-0.0725,330,246
+Orthopedics,Flu_Vaccine,2023-Q2,0.7051,0.8409,-0.1358,131,92
+Orthopedics,Flu_Vaccine,2023-Q3,0.7318,0.7392,-0.0074,436,319
+Orthopedics,Flu_Vaccine,2023-Q4,0.7126,0.8363,-0.1237,476,339
+Orthopedics,Flu_Vaccine,2024-Q1,0.7012,0.8674,-0.1662,460,323
+Orthopedics,Flu_Vaccine,2024-Q2,0.7242,0.8287,-0.1045,451,327
+Orthopedics,Flu_Vaccine,2024-Q3,0.7539,0.7587,-0.0048,536,404
+Orthopedics,Flu_Vaccine,2024-Q4,0.751,0.831,-0.08,468,351
+Orthopedics,Flu_Vaccine,2025-Q1,0.7428,0.7881,-0.0453,407,302
+Orthopedics,Flu_Vaccine,2025-Q2,0.7338,0.8313,-0.0975,565,415
+Orthopedics,Flu_Vaccine,2025-Q3,0.746,0.8745,-0.1285,175,131
+Orthopedics,Flu_Vaccine,2025-Q4,0.712,0.8343,-0.1223,591,421
+Orthopedics,Statin_Therapy,2023-Q1,0.6091,0.8174,-0.2083,384,234
+Orthopedics,Statin_Therapy,2023-Q2,0.6098,0.8461,-0.2363,475,290
+Orthopedics,Statin_Therapy,2023-Q3,0.652,0.7482,-0.0962,505,329
+Orthopedics,Statin_Therapy,2023-Q4,0.6491,0.8348,-0.1857,153,99
+Orthopedics,Statin_Therapy,2024-Q1,0.6803,0.733,-0.0527,467,318
+Orthopedics,Statin_Therapy,2024-Q2,0.6789,0.7159,-0.037,289,196
+Orthopedics,Statin_Therapy,2024-Q3,0.6589,0.8181,-0.1592,322,212
+Orthopedics,Statin_Therapy,2024-Q4,0.6544,0.7193,-0.0649,484,317
+Orthopedics,Statin_Therapy,2025-Q1,0.7092,0.7317,-0.0225,531,377
+Orthopedics,Statin_Therapy,2025-Q2,0.7091,0.7601,-0.051,385,273
+Orthopedics,Statin_Therapy,2025-Q3,0.7108,0.746,-0.0352,119,85
+Orthopedics,Statin_Therapy,2025-Q4,0.7581,0.805,-0.0469,145,110
+Orthopedics,Readmission_Rate,2023-Q1,0.7527,0.7708,-0.0181,490,369
+Orthopedics,Readmission_Rate,2023-Q2,0.7807,0.7392,0.0415,96,75
+Orthopedics,Readmission_Rate,2023-Q3,0.811,0.7111,0.0999,483,392
+Orthopedics,Readmission_Rate,2023-Q4,0.8548,0.7362,0.1186,228,195
+Orthopedics,Readmission_Rate,2024-Q1,0.8163,0.828,-0.0117,200,163
+Orthopedics,Readmission_Rate,2024-Q2,0.8355,0.8427,-0.0072,135,113
+Orthopedics,Readmission_Rate,2024-Q3,0.8491,0.7646,0.0845,159,135
+Orthopedics,Readmission_Rate,2024-Q4,0.8836,0.77,0.1136,137,121
+Orthopedics,Readmission_Rate,2025-Q1,0.8467,0.7802,0.0665,553,468
+Orthopedics,Readmission_Rate,2025-Q2,0.9105,0.8566,0.0539,136,124
+Orthopedics,Readmission_Rate,2025-Q3,0.8742,0.8568,0.0174,593,518
+Orthopedics,Readmission_Rate,2025-Q4,0.9072,0.7195,0.1877,289,262
+Orthopedics,CAHPS_Composite,2023-Q1,0.8051,0.8554,-0.0503,280,225
+Orthopedics,CAHPS_Composite,2023-Q2,0.8465,0.8573,-0.0108,567,480
+Orthopedics,CAHPS_Composite,2023-Q3,0.8259,0.8348,-0.0089,332,274
+Orthopedics,CAHPS_Composite,2023-Q4,0.842,0.8088,0.0332,453,381
+Orthopedics,CAHPS_Composite,2024-Q1,0.8236,0.8676,-0.044,574,473
+Orthopedics,CAHPS_Composite,2024-Q2,0.8415,0.8659,-0.0244,247,208
+Orthopedics,CAHPS_Composite,2024-Q3,0.8724,0.8378,0.0346,404,352
+Orthopedics,CAHPS_Composite,2024-Q4,0.8398,0.8045,0.0353,481,404
+Orthopedics,CAHPS_Composite,2025-Q1,0.8321,0.7793,0.0528,560,466
+Orthopedics,CAHPS_Composite,2025-Q2,0.8507,0.8255,0.0252,422,359
+Orthopedics,CAHPS_Composite,2025-Q3,0.8683,0.7649,0.1034,117,102
+Orthopedics,CAHPS_Composite,2025-Q4,0.8537,0.7854,0.0683,266,227
+Primary Care,BP_Control,2023-Q1,0.7773,0.7692,0.0081,178,138
+Primary Care,BP_Control,2023-Q2,0.8398,0.7586,0.0812,267,224
+Primary Care,BP_Control,2023-Q3,0.8461,0.8753,-0.0292,569,481
+Primary Care,BP_Control,2023-Q4,0.8749,0.7017,0.1732,210,184
+Primary Care,BP_Control,2024-Q1,0.8954,0.8033,0.0921,302,270
+Primary Care,BP_Control,2024-Q2,0.8413,0.8397,0.0016,187,157
+Primary Care,BP_Control,2024-Q3,0.8803,0.7382,0.1421,211,186
+Primary Care,BP_Control,2024-Q4,0.8883,0.7704,0.1179,279,248
+Primary Care,BP_Control,2025-Q1,0.8986,0.7848,0.1138,348,313
+Primary Care,BP_Control,2025-Q2,0.9566,0.7757,0.1809,240,230
+Primary Care,BP_Control,2025-Q3,0.9433,0.7116,0.2317,524,494
+Primary Care,BP_Control,2025-Q4,0.9143,0.8364,0.0779,374,342
+Primary Care,HbA1c_Testing,2023-Q1,0.5997,0.715,-0.1153,218,131
+Primary Care,HbA1c_Testing,2023-Q2,0.6323,0.8335,-0.2012,149,94
+Primary Care,HbA1c_Testing,2023-Q3,0.6297,0.7947,-0.165,256,161
+Primary Care,HbA1c_Testing,2023-Q4,0.5988,0.8261,-0.2273,463,277
+Primary Care,HbA1c_Testing,2024-Q1,0.604,0.7114,-0.1074,441,266
+Primary Care,HbA1c_Testing,2024-Q2,0.6096,0.8434,-0.2338,167,102
+Primary Care,HbA1c_Testing,2024-Q3,0.6354,0.7851,-0.1497,453,288
+Primary Care,HbA1c_Testing,2024-Q4,0.6635,0.7605,-0.097,240,159
+Primary Care,HbA1c_Testing,2025-Q1,0.6249,0.7279,-0.103,457,286
+Primary Care,HbA1c_Testing,2025-Q2,0.6671,0.7651,-0.098,212,141
+Primary Care,HbA1c_Testing,2025-Q3,0.638,0.8243,-0.1863,410,262
+Primary Care,HbA1c_Testing,2025-Q4,0.6564,0.8001,-0.1437,106,70
+Primary Care,Colorectal_Screening,2023-Q1,0.8925,0.7351,0.1574,234,209
+Primary Care,Colorectal_Screening,2023-Q2,0.9035,0.8382,0.0653,261,236
+Primary Care,Colorectal_Screening,2023-Q3,0.8859,0.8095,0.0764,308,273
+Primary Care,Colorectal_Screening,2023-Q4,0.8641,0.8435,0.0206,445,385
+Primary Care,Colorectal_Screening,2024-Q1,0.9083,0.8711,0.0372,529,480
+Primary Care,Colorectal_Screening,2024-Q2,0.916,0.7949,0.1211,589,540
+Primary Care,Colorectal_Screening,2024-Q3,0.9535,0.7187,0.2348,278,265
+Primary Care,Colorectal_Screening,2024-Q4,0.9851,0.7631,0.222,499,492
+Primary Care,Colorectal_Screening,2025-Q1,0.9861,0.7541,0.232,240,237
+Primary Care,Colorectal_Screening,2025-Q2,1.0,0.7739,0.2261,397,397
+Primary Care,Colorectal_Screening,2025-Q3,0.9556,0.8531,0.1025,590,564
+Primary Care,Colorectal_Screening,2025-Q4,1.0,0.7479,0.2521,363,363
+Primary Care,Mammography,2023-Q1,0.8219,0.7819,0.04,234,192
+Primary Care,Mammography,2023-Q2,0.8096,0.8614,-0.0518,331,268
+Primary Care,Mammography,2023-Q3,0.8091,0.7185,0.0906,90,73
+Primary Care,Mammography,2023-Q4,0.791,0.8662,-0.0752,205,162
+Primary Care,Mammography,2024-Q1,0.8597,0.8798,-0.0201,441,379
+Primary Care,Mammography,2024-Q2,0.7982,0.8307,-0.0325,130,104
+Primary Care,Mammography,2024-Q3,0.8414,0.7947,0.0467,130,109
+Primary Care,Mammography,2024-Q4,0.792,0.8682,-0.0762,571,452
+Primary Care,Mammography,2025-Q1,0.8164,0.7569,0.0595,397,324
+Primary Care,Mammography,2025-Q2,0.8369,0.8474,-0.0105,439,367
+Primary Care,Mammography,2025-Q3,0.7913,0.835,-0.0437,426,337
+Primary Care,Mammography,2025-Q4,0.7995,0.7977,0.0018,92,74
+Primary Care,Flu_Vaccine,2023-Q1,0.6508,0.7003,-0.0495,510,332
+Primary Care,Flu_Vaccine,2023-Q2,0.6676,0.7876,-0.12,583,389
+Primary Care,Flu_Vaccine,2023-Q3,0.6904,0.8447,-0.1543,346,239
+Primary Care,Flu_Vaccine,2023-Q4,0.6917,0.7457,-0.054,525,363
+Primary Care,Flu_Vaccine,2024-Q1,0.6886,0.7143,-0.0257,297,205
+Primary Care,Flu_Vaccine,2024-Q2,0.6896,0.7804,-0.0908,517,357
+Primary Care,Flu_Vaccine,2024-Q3,0.6452,0.7678,-0.1226,473,305
+Primary Care,Flu_Vaccine,2024-Q4,0.6621,0.8414,-0.1793,382,253
+Primary Care,Flu_Vaccine,2025-Q1,0.6511,0.77,-0.1189,418,272
+Primary Care,Flu_Vaccine,2025-Q2,0.6475,0.7436,-0.0961,304,197
+Primary Care,Flu_Vaccine,2025-Q3,0.6417,0.7421,-0.1004,534,343
+Primary Care,Flu_Vaccine,2025-Q4,0.642,0.7797,-0.1377,498,320
+Primary Care,Statin_Therapy,2023-Q1,0.9127,0.7863,0.1264,231,211
+Primary Care,Statin_Therapy,2023-Q2,0.8817,0.7281,0.1536,520,458
+Primary Care,Statin_Therapy,2023-Q3,0.9231,0.8656,0.0575,254,234
+Primary Care,Statin_Therapy,2023-Q4,0.9028,0.7904,0.1124,156,141
+Primary Care,Statin_Therapy,2024-Q1,0.9109,0.7621,0.1488,265,241
+Primary Care,Statin_Therapy,2024-Q2,0.9132,0.7393,0.1739,377,344
+Primary Care,Statin_Therapy,2024-Q3,0.8965,0.7372,0.1593,590,529
+Primary Care,Statin_Therapy,2024-Q4,0.8962,0.7441,0.1521,400,358
+Primary Care,Statin_Therapy,2025-Q1,0.8859,0.7091,0.1768,248,220
+Primary Care,Statin_Therapy,2025-Q2,0.88,0.7208,0.1592,376,331
+Primary Care,Statin_Therapy,2025-Q3,0.9122,0.7016,0.2106,83,76
+Primary Care,Statin_Therapy,2025-Q4,0.9005,0.7454,0.1551,213,192
+Primary Care,Readmission_Rate,2023-Q1,0.838,0.7861,0.0519,517,433
+Primary Care,Readmission_Rate,2023-Q2,0.8479,0.7295,0.1184,157,133
+Primary Care,Readmission_Rate,2023-Q3,0.7931,0.7485,0.0446,578,458
+Primary Care,Readmission_Rate,2023-Q4,0.7826,0.7812,0.0014,499,391
+Primary Care,Readmission_Rate,2024-Q1,0.7836,0.768,0.0156,404,317
+Primary Care,Readmission_Rate,2024-Q2,0.7906,0.8045,-0.0139,175,138
+Primary Care,Readmission_Rate,2024-Q3,0.7689,0.779,-0.0101,385,296
+Primary Care,Readmission_Rate,2024-Q4,0.8067,0.7872,0.0195,317,256
+Primary Care,Readmission_Rate,2025-Q1,0.7747,0.77,0.0047,453,351
+Primary Care,Readmission_Rate,2025-Q2,0.7915,0.7369,0.0546,531,420
+Primary Care,Readmission_Rate,2025-Q3,0.7887,0.8162,-0.0275,438,345
+Primary Care,Readmission_Rate,2025-Q4,0.7637,0.7943,-0.0306,386,295
+Primary Care,CAHPS_Composite,2023-Q1,0.7438,0.8224,-0.0786,450,335
+Primary Care,CAHPS_Composite,2023-Q2,0.7291,0.7815,-0.0524,330,241
+Primary Care,CAHPS_Composite,2023-Q3,0.7563,0.7204,0.0359,339,256
+Primary Care,CAHPS_Composite,2023-Q4,0.7355,0.8727,-0.1372,350,257
+Primary Care,CAHPS_Composite,2024-Q1,0.7655,0.8725,-0.107,479,367
+Primary Care,CAHPS_Composite,2024-Q2,0.7618,0.7116,0.0502,525,400
+Primary Care,CAHPS_Composite,2024-Q3,0.7688,0.7438,0.025,407,313
+Primary Care,CAHPS_Composite,2024-Q4,0.7928,0.7326,0.0602,570,452
+Primary Care,CAHPS_Composite,2025-Q1,0.8195,0.7452,0.0743,568,465
+Primary Care,CAHPS_Composite,2025-Q2,0.8024,0.787,0.0154,322,258
+Primary Care,CAHPS_Composite,2025-Q3,0.8492,0.7789,0.0703,241,205
+Primary Care,CAHPS_Composite,2025-Q4,0.8484,0.7143,0.1341,307,260
+Endocrinology,BP_Control,2023-Q1,0.7572,0.78,-0.0228,472,357
+Endocrinology,BP_Control,2023-Q2,0.7673,0.8624,-0.0951,154,118
+Endocrinology,BP_Control,2023-Q3,0.7507,0.8414,-0.0907,163,122
+Endocrinology,BP_Control,2023-Q4,0.7874,0.867,-0.0796,560,441
+Endocrinology,BP_Control,2024-Q1,0.801,0.7598,0.0412,584,468
+Endocrinology,BP_Control,2024-Q2,0.8105,0.8067,0.0038,306,248
+Endocrinology,BP_Control,2024-Q3,0.782,0.7228,0.0592,271,212
+Endocrinology,BP_Control,2024-Q4,0.8147,0.8465,-0.0318,121,99
+Endocrinology,BP_Control,2025-Q1,0.7973,0.8151,-0.0178,109,87
+Endocrinology,BP_Control,2025-Q2,0.7877,0.8653,-0.0776,411,324
+Endocrinology,BP_Control,2025-Q3,0.8504,0.8061,0.0443,407,346
+Endocrinology,BP_Control,2025-Q4,0.8299,0.7516,0.0783,196,163
+Endocrinology,HbA1c_Testing,2023-Q1,0.7136,0.7991,-0.0855,371,265
+Endocrinology,HbA1c_Testing,2023-Q2,0.7379,0.7058,0.0321,148,109
+Endocrinology,HbA1c_Testing,2023-Q3,0.6993,0.8029,-0.1036,363,254
+Endocrinology,HbA1c_Testing,2023-Q4,0.7134,0.7545,-0.0411,269,192
+Endocrinology,HbA1c_Testing,2024-Q1,0.7479,0.7523,-0.0044,208,156
+Endocrinology,HbA1c_Testing,2024-Q2,0.7423,0.8548,-0.1125,560,416
+Endocrinology,HbA1c_Testing,2024-Q3,0.7522,0.7186,0.0336,217,163
+Endocrinology,HbA1c_Testing,2024-Q4,0.7631,0.7339,0.0292,319,243
+Endocrinology,HbA1c_Testing,2025-Q1,0.7631,0.7445,0.0186,136,104
+Endocrinology,HbA1c_Testing,2025-Q2,0.7337,0.8395,-0.1058,496,364
+Endocrinology,HbA1c_Testing,2025-Q3,0.7613,0.7605,0.0008,287,218
+Endocrinology,HbA1c_Testing,2025-Q4,0.745,0.7669,-0.0219,279,208
+Endocrinology,Colorectal_Screening,2023-Q1,0.9065,0.8701,0.0364,401,364
+Endocrinology,Colorectal_Screening,2023-Q2,0.881,0.8679,0.0131,100,88
+Endocrinology,Colorectal_Screening,2023-Q3,0.913,0.8027,0.1103,240,219
+Endocrinology,Colorectal_Screening,2023-Q4,0.8586,0.7907,0.0679,202,173
+Endocrinology,Colorectal_Screening,2024-Q1,0.8923,0.807,0.0853,80,71
+Endocrinology,Colorectal_Screening,2024-Q2,0.869,0.7946,0.0744,580,504
+Endocrinology,Colorectal_Screening,2024-Q3,0.91,0.8375,0.0725,413,376
+Endocrinology,Colorectal_Screening,2024-Q4,0.8529,0.8139,0.039,596,508
+Endocrinology,Colorectal_Screening,2025-Q1,0.8724,0.8173,0.0551,229,200
+Endocrinology,Colorectal_Screening,2025-Q2,0.8473,0.8401,0.0072,567,480
+Endocrinology,Colorectal_Screening,2025-Q3,0.9179,0.8772,0.0407,556,510
+Endocrinology,Colorectal_Screening,2025-Q4,0.9154,0.8533,0.0621,515,471
+Endocrinology,Mammography,2023-Q1,0.686,0.7844,-0.0984,304,209
+Endocrinology,Mammography,2023-Q2,0.6788,0.8046,-0.1258,333,226
+Endocrinology,Mammography,2023-Q3,0.6637,0.8562,-0.1925,474,315
+Endocrinology,Mammography,2023-Q4,0.6647,0.7741,-0.1094,591,393
+Endocrinology,Mammography,2024-Q1,0.6542,0.8183,-0.1641,590,386
+Endocrinology,Mammography,2024-Q2,0.6716,0.7906,-0.119,413,277
+Endocrinology,Mammography,2024-Q3,0.7036,0.8674,-0.1638,91,64
+Endocrinology,Mammography,2024-Q4,0.6944,0.8424,-0.148,136,94
+Endocrinology,Mammography,2025-Q1,0.6914,0.8235,-0.1321,379,262
+Endocrinology,Mammography,2025-Q2,0.7088,0.7499,-0.0411,452,320
+Endocrinology,Mammography,2025-Q3,0.6987,0.8191,-0.1204,534,373
+Endocrinology,Mammography,2025-Q4,0.7731,0.8268,-0.0537,489,378
+Endocrinology,Flu_Vaccine,2023-Q1,0.6059,0.8751,-0.2692,107,65
+Endocrinology,Flu_Vaccine,2023-Q2,0.6176,0.8235,-0.2059,97,60
+Endocrinology,Flu_Vaccine,2023-Q3,0.6624,0.8672,-0.2048,316,209
+Endocrinology,Flu_Vaccine,2023-Q4,0.6907,0.8279,-0.1372,231,160
+Endocrinology,Flu_Vaccine,2024-Q1,0.6319,0.7729,-0.141,231,146
+Endocrinology,Flu_Vaccine,2024-Q2,0.6758,0.7808,-0.105,242,164
+Endocrinology,Flu_Vaccine,2024-Q3,0.6945,0.7622,-0.0677,475,330
+Endocrinology,Flu_Vaccine,2024-Q4,0.7382,0.7428,-0.0046,420,310
+Endocrinology,Flu_Vaccine,2025-Q1,0.7001,0.8118,-0.1117,160,112
+Endocrinology,Flu_Vaccine,2025-Q2,0.7266,0.8328,-0.1062,515,374
+Endocrinology,Flu_Vaccine,2025-Q3,0.7356,0.79,-0.0544,149,110
+Endocrinology,Flu_Vaccine,2025-Q4,0.7011,0.7826,-0.0815,407,285
+Endocrinology,Statin_Therapy,2023-Q1,0.6497,0.8387,-0.189,532,346
+Endocrinology,Statin_Therapy,2023-Q2,0.6931,0.7296,-0.0365,403,279
+Endocrinology,Statin_Therapy,2023-Q3,0.6514,0.7997,-0.1483,551,359
+Endocrinology,Statin_Therapy,2023-Q4,0.6371,0.8207,-0.1836,598,381
+Endocrinology,Statin_Therapy,2024-Q1,0.6803,0.8208,-0.1405,391,266
+Endocrinology,Statin_Therapy,2024-Q2,0.6943,0.7013,-0.007,417,290
+Endocrinology,Statin_Therapy,2024-Q3,0.6906,0.8281,-0.1375,285,197
+Endocrinology,Statin_Therapy,2024-Q4,0.6576,0.8243,-0.1667,82,54
+Endocrinology,Statin_Therapy,2025-Q1,0.6878,0.7656,-0.0778,481,331
+Endocrinology,Statin_Therapy,2025-Q2,0.6932,0.761,-0.0678,568,394
+Endocrinology,Statin_Therapy,2025-Q3,0.7034,0.7255,-0.0221,302,212
+Endocrinology,Statin_Therapy,2025-Q4,0.7081,0.8567,-0.1486,459,325
+Endocrinology,Readmission_Rate,2023-Q1,0.5752,0.8257,-0.2505,104,60
+Endocrinology,Readmission_Rate,2023-Q2,0.5736,0.7629,-0.1893,274,157
+Endocrinology,Readmission_Rate,2023-Q3,0.5723,0.8534,-0.2811,498,285
+Endocrinology,Readmission_Rate,2023-Q4,0.6164,0.8091,-0.1927,539,332
+Endocrinology,Readmission_Rate,2024-Q1,0.6322,0.7327,-0.1005,211,133
+Endocrinology,Readmission_Rate,2024-Q2,0.5685,0.7963,-0.2278,405,230
+Endocrinology,Readmission_Rate,2024-Q3,0.5913,0.7699,-0.1786,328,194
+Endocrinology,Readmission_Rate,2024-Q4,0.6344,0.7995,-0.1651,108,69
+Endocrinology,Readmission_Rate,2025-Q1,0.6237,0.849,-0.2253,267,167
+Endocrinology,Readmission_Rate,2025-Q2,0.5841,0.787,-0.2029,421,246
+Endocrinology,Readmission_Rate,2025-Q3,0.6605,0.7404,-0.0799,239,158
+Endocrinology,Readmission_Rate,2025-Q4,0.6601,0.7201,-0.06,254,168
+Endocrinology,CAHPS_Composite,2023-Q1,0.6681,0.7186,-0.0505,327,218
+Endocrinology,CAHPS_Composite,2023-Q2,0.6871,0.7005,-0.0134,516,355
+Endocrinology,CAHPS_Composite,2023-Q3,0.7295,0.8239,-0.0944,116,85
+Endocrinology,CAHPS_Composite,2023-Q4,0.6881,0.8492,-0.1611,460,317
+Endocrinology,CAHPS_Composite,2024-Q1,0.6311,0.7955,-0.1644,114,72
+Endocrinology,CAHPS_Composite,2024-Q2,0.6695,0.7734,-0.1039,347,232
+Endocrinology,CAHPS_Composite,2024-Q3,0.6809,0.823,-0.1421,593,404
+Endocrinology,CAHPS_Composite,2024-Q4,0.6751,0.7368,-0.0617,515,348
+Endocrinology,CAHPS_Composite,2025-Q1,0.6946,0.8401,-0.1455,206,143
+Endocrinology,CAHPS_Composite,2025-Q2,0.6411,0.7762,-0.1351,245,157
+Endocrinology,CAHPS_Composite,2025-Q3,0.6534,0.7358,-0.0824,484,316
+Endocrinology,CAHPS_Composite,2025-Q4,0.6701,0.7766,-0.1065,503,337
+Pulmonology,BP_Control,2023-Q1,0.5652,0.7865,-0.2213,438,248
+Pulmonology,BP_Control,2023-Q2,0.6144,0.8015,-0.1871,539,331
+Pulmonology,BP_Control,2023-Q3,0.5643,0.8412,-0.2769,414,234
+Pulmonology,BP_Control,2023-Q4,0.6358,0.7523,-0.1165,83,53
+Pulmonology,BP_Control,2024-Q1,0.5803,0.7573,-0.177,532,309
+Pulmonology,BP_Control,2024-Q2,0.5917,0.7867,-0.195,213,126
+Pulmonology,BP_Control,2024-Q3,0.6305,0.7637,-0.1332,92,58
+Pulmonology,BP_Control,2024-Q4,0.6434,0.7529,-0.1095,263,169
+Pulmonology,BP_Control,2025-Q1,0.6279,0.7591,-0.1312,594,373
+Pulmonology,BP_Control,2025-Q2,0.624,0.7987,-0.1747,106,66
+Pulmonology,BP_Control,2025-Q3,0.6485,0.8131,-0.1646,407,264
+Pulmonology,BP_Control,2025-Q4,0.6109,0.8451,-0.2342,538,329
+Pulmonology,HbA1c_Testing,2023-Q1,0.6649,0.7907,-0.1258,448,298
+Pulmonology,HbA1c_Testing,2023-Q2,0.6266,0.8412,-0.2146,232,145
+Pulmonology,HbA1c_Testing,2023-Q3,0.6376,0.7084,-0.0708,101,64
+Pulmonology,HbA1c_Testing,2023-Q4,0.6151,0.7275,-0.1124,196,121
+Pulmonology,HbA1c_Testing,2024-Q1,0.646,0.703,-0.057,373,241
+Pulmonology,HbA1c_Testing,2024-Q2,0.6182,0.7154,-0.0972,140,87
+Pulmonology,HbA1c_Testing,2024-Q3,0.6598,0.8421,-0.1823,390,257
+Pulmonology,HbA1c_Testing,2024-Q4,0.6498,0.8044,-0.1546,199,129
+Pulmonology,HbA1c_Testing,2025-Q1,0.6523,0.7731,-0.1208,94,61
+Pulmonology,HbA1c_Testing,2025-Q2,0.6164,0.7941,-0.1777,201,124
+Pulmonology,HbA1c_Testing,2025-Q3,0.6449,0.7771,-0.1322,197,127
+Pulmonology,HbA1c_Testing,2025-Q4,0.6418,0.7155,-0.0737,455,292
+Pulmonology,Colorectal_Screening,2023-Q1,0.7726,0.7161,0.0565,371,287
+Pulmonology,Colorectal_Screening,2023-Q2,0.8113,0.703,0.1083,362,294
+Pulmonology,Colorectal_Screening,2023-Q3,0.8253,0.7793,0.046,444,366
+Pulmonology,Colorectal_Screening,2023-Q4,0.8168,0.7081,0.1087,122,100
+Pulmonology,Colorectal_Screening,2024-Q1,0.8414,0.8569,-0.0155,399,336
+Pulmonology,Colorectal_Screening,2024-Q2,0.8541,0.7604,0.0937,388,331
+Pulmonology,Colorectal_Screening,2024-Q3,0.8882,0.7061,0.1821,221,196
+Pulmonology,Colorectal_Screening,2024-Q4,0.8748,0.7234,0.1514,569,498
+Pulmonology,Colorectal_Screening,2025-Q1,0.9177,0.7042,0.2135,118,108
+Pulmonology,Colorectal_Screening,2025-Q2,0.9212,0.8668,0.0544,473,436
+Pulmonology,Colorectal_Screening,2025-Q3,0.9492,0.7558,0.1934,395,375
+Pulmonology,Colorectal_Screening,2025-Q4,0.9279,0.8123,0.1156,420,390
+Pulmonology,Mammography,2023-Q1,0.7208,0.8253,-0.1045,598,431
+Pulmonology,Mammography,2023-Q2,0.714,0.8702,-0.1562,310,221
+Pulmonology,Mammography,2023-Q3,0.7335,0.8419,-0.1084,483,354
+Pulmonology,Mammography,2023-Q4,0.7212,0.738,-0.0168,302,218
+Pulmonology,Mammography,2024-Q1,0.7628,0.7726,-0.0098,578,441
+Pulmonology,Mammography,2024-Q2,0.7474,0.7252,0.0222,248,185
+Pulmonology,Mammography,2024-Q3,0.7282,0.7548,-0.0266,413,301
+Pulmonology,Mammography,2024-Q4,0.7437,0.8388,-0.0951,179,133
+Pulmonology,Mammography,2025-Q1,0.7147,0.7872,-0.0725,306,219
+Pulmonology,Mammography,2025-Q2,0.7487,0.7424,0.0063,146,109
+Pulmonology,Mammography,2025-Q3,0.7748,0.8408,-0.066,383,297
+Pulmonology,Mammography,2025-Q4,0.7351,0.8568,-0.1217,268,197
+Pulmonology,Flu_Vaccine,2023-Q1,0.6711,0.857,-0.1859,496,333
+Pulmonology,Flu_Vaccine,2023-Q2,0.6835,0.7722,-0.0887,333,228
+Pulmonology,Flu_Vaccine,2023-Q3,0.6848,0.8208,-0.136,116,79
+Pulmonology,Flu_Vaccine,2023-Q4,0.6942,0.8387,-0.1445,115,80
+Pulmonology,Flu_Vaccine,2024-Q1,0.7058,0.7468,-0.041,296,209
+Pulmonology,Flu_Vaccine,2024-Q2,0.7333,0.8065,-0.0732,98,72
+Pulmonology,Flu_Vaccine,2024-Q3,0.7265,0.7492,-0.0227,507,368
+Pulmonology,Flu_Vaccine,2024-Q4,0.7352,0.7892,-0.054,249,183
+Pulmonology,Flu_Vaccine,2025-Q1,0.7217,0.8516,-0.1299,186,134
+Pulmonology,Flu_Vaccine,2025-Q2,0.7506,0.7543,-0.0037,465,349
+Pulmonology,Flu_Vaccine,2025-Q3,0.7685,0.7197,0.0488,528,406
+Pulmonology,Flu_Vaccine,2025-Q4,0.7492,0.7092,0.04,594,445
+Pulmonology,Statin_Therapy,2023-Q1,0.8972,0.7896,0.1076,94,84
+Pulmonology,Statin_Therapy,2023-Q2,0.9058,0.8714,0.0344,593,537
+Pulmonology,Statin_Therapy,2023-Q3,0.9021,0.8743,0.0278,487,439
+Pulmonology,Statin_Therapy,2023-Q4,0.9245,0.8745,0.05,185,171
+Pulmonology,Statin_Therapy,2024-Q1,0.9078,0.7401,0.1677,98,89
+Pulmonology,Statin_Therapy,2024-Q2,0.885,0.7414,0.1436,381,337
+Pulmonology,Statin_Therapy,2024-Q3,0.8873,0.7684,0.1189,191,169
+Pulmonology,Statin_Therapy,2024-Q4,0.8923,0.8223,0.07,178,159
+Pulmonology,Statin_Therapy,2025-Q1,0.8853,0.7657,0.1196,183,162
+Pulmonology,Statin_Therapy,2025-Q2,0.8851,0.7686,0.1165,413,366
+Pulmonology,Statin_Therapy,2025-Q3,0.8886,0.747,0.1416,498,443
+Pulmonology,Statin_Therapy,2025-Q4,0.898,0.7693,0.1287,237,213
+Pulmonology,Readmission_Rate,2023-Q1,0.6803,0.7279,-0.0476,437,297
+Pulmonology,Readmission_Rate,2023-Q2,0.6894,0.7394,-0.05,190,131
+Pulmonology,Readmission_Rate,2023-Q3,0.6856,0.7229,-0.0373,492,337
+Pulmonology,Readmission_Rate,2023-Q4,0.6514,0.8068,-0.1554,543,354
+Pulmonology,Readmission_Rate,2024-Q1,0.7051,0.771,-0.0659,245,173
+Pulmonology,Readmission_Rate,2024-Q2,0.7132,0.8416,-0.1284,443,316
+Pulmonology,Readmission_Rate,2024-Q3,0.6935,0.867,-0.1735,396,275
+Pulmonology,Readmission_Rate,2024-Q4,0.702,0.7879,-0.0859,452,317
+Pulmonology,Readmission_Rate,2025-Q1,0.7158,0.7067,0.0091,141,101
+Pulmonology,Readmission_Rate,2025-Q2,0.7125,0.8136,-0.1011,597,425
+Pulmonology,Readmission_Rate,2025-Q3,0.6827,0.811,-0.1283,542,370
+Pulmonology,Readmission_Rate,2025-Q4,0.7069,0.7216,-0.0147,317,224
+Pulmonology,CAHPS_Composite,2023-Q1,0.8017,0.7606,0.0411,587,471
+Pulmonology,CAHPS_Composite,2023-Q2,0.8012,0.7169,0.0843,514,412
+Pulmonology,CAHPS_Composite,2023-Q3,0.7763,0.7066,0.0697,364,283
+Pulmonology,CAHPS_Composite,2023-Q4,0.8099,0.731,0.0789,164,133
+Pulmonology,CAHPS_Composite,2024-Q1,0.7911,0.7477,0.0434,338,267
+Pulmonology,CAHPS_Composite,2024-Q2,0.777,0.7806,-0.0036,507,394
+Pulmonology,CAHPS_Composite,2024-Q3,0.7639,0.7599,0.004,351,268
+Pulmonology,CAHPS_Composite,2024-Q4,0.729,0.7472,-0.0182,187,136
+Pulmonology,CAHPS_Composite,2025-Q1,0.7688,0.7666,0.0022,520,400
+Pulmonology,CAHPS_Composite,2025-Q2,0.7772,0.747,0.0302,433,337
+Pulmonology,CAHPS_Composite,2025-Q3,0.7753,0.8228,-0.0475,592,459
+Pulmonology,CAHPS_Composite,2025-Q4,0.8137,0.8332,-0.0195,226,184
+Nephrology,BP_Control,2023-Q1,0.7746,0.8329,-0.0583,372,288
+Nephrology,BP_Control,2023-Q2,0.7882,0.8311,-0.0429,457,360
+Nephrology,BP_Control,2023-Q3,0.8311,0.7463,0.0848,197,164
+Nephrology,BP_Control,2023-Q4,0.7853,0.8503,-0.065,554,435
+Nephrology,BP_Control,2024-Q1,0.8161,0.8004,0.0157,340,277
+Nephrology,BP_Control,2024-Q2,0.7996,0.8071,-0.0075,576,461
+Nephrology,BP_Control,2024-Q3,0.8257,0.8491,-0.0234,218,180
+Nephrology,BP_Control,2024-Q4,0.8652,0.7038,0.1614,273,236
+Nephrology,BP_Control,2025-Q1,0.8961,0.8459,0.0502,276,247
+Nephrology,BP_Control,2025-Q2,0.8766,0.78,0.0966,481,422
+Nephrology,BP_Control,2025-Q3,0.889,0.8676,0.0214,248,220
+Nephrology,BP_Control,2025-Q4,0.9044,0.7562,0.1482,257,232
+Nephrology,HbA1c_Testing,2023-Q1,0.8491,0.7004,0.1487,577,490
+Nephrology,HbA1c_Testing,2023-Q2,0.8472,0.7506,0.0966,203,172
+Nephrology,HbA1c_Testing,2023-Q3,0.8459,0.756,0.0899,347,294
+Nephrology,HbA1c_Testing,2023-Q4,0.9078,0.8521,0.0557,356,323
+Nephrology,HbA1c_Testing,2024-Q1,0.8723,0.7006,0.1717,254,222
+Nephrology,HbA1c_Testing,2024-Q2,0.8938,0.7784,0.1154,206,184
+Nephrology,HbA1c_Testing,2024-Q3,0.8852,0.7343,0.1509,275,243
+Nephrology,HbA1c_Testing,2024-Q4,0.9106,0.7508,0.1598,413,376
+Nephrology,HbA1c_Testing,2025-Q1,0.914,0.7636,0.1504,474,433
+Nephrology,HbA1c_Testing,2025-Q2,0.9423,0.7155,0.2268,282,266
+Nephrology,HbA1c_Testing,2025-Q3,0.9171,0.7258,0.1913,520,477
+Nephrology,HbA1c_Testing,2025-Q4,0.947,0.8296,0.1174,170,161
+Nephrology,Colorectal_Screening,2023-Q1,0.6082,0.7221,-0.1139,448,272
+Nephrology,Colorectal_Screening,2023-Q2,0.6602,0.762,-0.1018,89,59
+Nephrology,Colorectal_Screening,2023-Q3,0.6055,0.8036,-0.1981,440,266
+Nephrology,Colorectal_Screening,2023-Q4,0.6508,0.7492,-0.0984,215,140
+Nephrology,Colorectal_Screening,2024-Q1,0.6425,0.8567,-0.2142,450,289
+Nephrology,Colorectal_Screening,2024-Q2,0.6434,0.8391,-0.1957,572,368
+Nephrology,Colorectal_Screening,2024-Q3,0.6666,0.7611,-0.0945,456,304
+Nephrology,Colorectal_Screening,2024-Q4,0.6458,0.7724,-0.1266,595,384
+Nephrology,Colorectal_Screening,2025-Q1,0.629,0.815,-0.186,360,226
+Nephrology,Colorectal_Screening,2025-Q2,0.6799,0.8165,-0.1366,256,174
+Nephrology,Colorectal_Screening,2025-Q3,0.6417,0.8255,-0.1838,529,339
+Nephrology,Colorectal_Screening,2025-Q4,0.6645,0.7281,-0.0636,153,102
+Nephrology,Mammography,2023-Q1,0.6329,0.7552,-0.1223,268,170
+Nephrology,Mammography,2023-Q2,0.6099,0.8182,-0.2083,296,181
+Nephrology,Mammography,2023-Q3,0.6365,0.788,-0.1515,187,119
+Nephrology,Mammography,2023-Q4,0.645,0.832,-0.187,334,215
+Nephrology,Mammography,2024-Q1,0.6186,0.7273,-0.1087,561,347
+Nephrology,Mammography,2024-Q2,0.6159,0.7285,-0.1126,333,205
+Nephrology,Mammography,2024-Q3,0.6017,0.7439,-0.1422,499,300
+Nephrology,Mammography,2024-Q4,0.6444,0.7226,-0.0782,537,346
+Nephrology,Mammography,2025-Q1,0.5969,0.8649,-0.268,519,310
+Nephrology,Mammography,2025-Q2,0.614,0.779,-0.165,524,322
+Nephrology,Mammography,2025-Q3,0.6166,0.8588,-0.2422,423,261
+Nephrology,Mammography,2025-Q4,0.6089,0.8641,-0.2552,600,365
+Nephrology,Flu_Vaccine,2023-Q1,0.8833,0.852,0.0313,474,419
+Nephrology,Flu_Vaccine,2023-Q2,0.8209,0.7967,0.0242,537,441
+Nephrology,Flu_Vaccine,2023-Q3,0.8748,0.8152,0.0596,548,479
+Nephrology,Flu_Vaccine,2023-Q4,0.8961,0.8355,0.0606,234,210
+Nephrology,Flu_Vaccine,2024-Q1,0.918,0.8756,0.0424,376,345
+Nephrology,Flu_Vaccine,2024-Q2,0.9186,0.7483,0.1703,278,255
+Nephrology,Flu_Vaccine,2024-Q3,0.9058,0.8417,0.0641,286,259
+Nephrology,Flu_Vaccine,2024-Q4,0.9482,0.7751,0.1731,434,412
+Nephrology,Flu_Vaccine,2025-Q1,0.9364,0.8147,0.1217,586,549
+Nephrology,Flu_Vaccine,2025-Q2,0.9371,0.7283,0.2088,492,461
+Nephrology,Flu_Vaccine,2025-Q3,0.9005,0.7736,0.1269,346,312
+Nephrology,Flu_Vaccine,2025-Q4,0.9348,0.8277,0.1071,84,79
+Nephrology,Statin_Therapy,2023-Q1,0.8545,0.7728,0.0817,512,438
+Nephrology,Statin_Therapy,2023-Q2,0.8657,0.8616,0.0041,593,513
+Nephrology,Statin_Therapy,2023-Q3,0.8875,0.7377,0.1498,271,241
+Nephrology,Statin_Therapy,2023-Q4,0.9198,0.7057,0.2141,157,144
+Nephrology,Statin_Therapy,2024-Q1,0.8701,0.7714,0.0987,291,253
+Nephrology,Statin_Therapy,2024-Q2,0.8881,0.8574,0.0307,575,511
+Nephrology,Statin_Therapy,2024-Q3,0.9042,0.781,0.1232,95,86
+Nephrology,Statin_Therapy,2024-Q4,0.8927,0.7615,0.1312,389,347
+Nephrology,Statin_Therapy,2025-Q1,0.8977,0.7074,0.1903,292,262
+Nephrology,Statin_Therapy,2025-Q2,0.8991,0.7998,0.0993,306,275
+Nephrology,Statin_Therapy,2025-Q3,0.8856,0.7341,0.1515,184,163
+Nephrology,Statin_Therapy,2025-Q4,0.8965,0.8178,0.0787,178,160
+Nephrology,Readmission_Rate,2023-Q1,0.712,0.7725,-0.0605,91,65
+Nephrology,Readmission_Rate,2023-Q2,0.7762,0.7284,0.0478,513,398
+Nephrology,Readmission_Rate,2023-Q3,0.7148,0.7243,-0.0095,139,99
+Nephrology,Readmission_Rate,2023-Q4,0.7425,0.8564,-0.1139,307,228
+Nephrology,Readmission_Rate,2024-Q1,0.75,0.7901,-0.0401,454,340
+Nephrology,Readmission_Rate,2024-Q2,0.7552,0.8719,-0.1167,153,116
+Nephrology,Readmission_Rate,2024-Q3,0.7218,0.7199,0.0019,362,261
+Nephrology,Readmission_Rate,2024-Q4,0.7369,0.8395,-0.1026,326,240
+Nephrology,Readmission_Rate,2025-Q1,0.7273,0.8014,-0.0741,176,128
+Nephrology,Readmission_Rate,2025-Q2,0.7336,0.7647,-0.0311,331,243
+Nephrology,Readmission_Rate,2025-Q3,0.6944,0.7468,-0.0524,168,117
+Nephrology,Readmission_Rate,2025-Q4,0.6918,0.8548,-0.163,166,115
+Nephrology,CAHPS_Composite,2023-Q1,0.5824,0.7767,-0.1943,592,345
+Nephrology,CAHPS_Composite,2023-Q2,0.5929,0.7756,-0.1827,267,158
+Nephrology,CAHPS_Composite,2023-Q3,0.5755,0.7424,-0.1669,469,270
+Nephrology,CAHPS_Composite,2023-Q4,0.6226,0.7636,-0.141,376,234
+Nephrology,CAHPS_Composite,2024-Q1,0.5967,0.7715,-0.1748,224,134
+Nephrology,CAHPS_Composite,2024-Q2,0.5911,0.7739,-0.1828,258,153
+Nephrology,CAHPS_Composite,2024-Q3,0.6138,0.8458,-0.232,398,244
+Nephrology,CAHPS_Composite,2024-Q4,0.6175,0.8553,-0.2378,586,362
+Nephrology,CAHPS_Composite,2025-Q1,0.6273,0.7994,-0.1721,214,134
+Nephrology,CAHPS_Composite,2025-Q2,0.5937,0.726,-0.1323,424,252
+Nephrology,CAHPS_Composite,2025-Q3,0.6017,0.7189,-0.1172,229,138
+Nephrology,CAHPS_Composite,2025-Q4,0.6069,0.8564,-0.2495,516,313
